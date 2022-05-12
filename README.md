@@ -1,2 +1,2 @@
-# learning-oop-in-c-
+# learning-oop-in-Csharp
 object oriented programming course
