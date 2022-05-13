@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\bin\Debug\net6.0\TesteDeCodigo.exe
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\bin\Debug\net6.0\TesteDeCodigo.deps.json
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\bin\Debug\net6.0\TesteDeCodigo.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\bin\Debug\net6.0\TesteDeCodigo.dll
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\bin\Debug\net6.0\TesteDeCodigo.pdb
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.dll
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\refint\TesteDeCodigo.dll
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.pdb
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\TesteDeCodigo.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\TesteDeCodigo\obj\Debug\net6.0\ref\TesteDeCodigo.dll
