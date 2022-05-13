@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\bin\Debug\net6.0\ExercicioDeFixaçao2.exe
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\bin\Debug\net6.0\ExercicioDeFixaçao2.deps.json
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\bin\Debug\net6.0\ExercicioDeFixaçao2.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\bin\Debug\net6.0\ExercicioDeFixaçao2.dll
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\bin\Debug\net6.0\ExercicioDeFixaçao2.pdb
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.dll
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\refint\ExercicioDeFixaçao2.dll
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.pdb
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ExercicioDeFixaçao2.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\ExercicioDeFixaçao2\obj\Debug\net6.0\ref\ExercicioDeFixaçao2.dll

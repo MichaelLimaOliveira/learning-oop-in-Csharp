@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\bin\Debug\net6.0\Capitulo3.Exercicio1.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\bin\Debug\net6.0\Capitulo3.Exercicio1.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\bin\Debug\net6.0\Capitulo3.Exercicio1.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\bin\Debug\net6.0\Capitulo3.Exercicio1.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\bin\Debug\net6.0\Capitulo3.Exercicio1.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\refint\Capitulo3.Exercicio1.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\Capitulo3.Exercicio1.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo3.Exercicio1\obj\Debug\net6.0\ref\Capitulo3.Exercicio1.dll
