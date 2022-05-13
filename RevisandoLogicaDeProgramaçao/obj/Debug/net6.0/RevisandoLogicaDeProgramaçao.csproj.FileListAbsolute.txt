@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\bin\Debug\net6.0\RevisandoLogicaDeProgramaçao.exe
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\bin\Debug\net6.0\RevisandoLogicaDeProgramaçao.deps.json
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\bin\Debug\net6.0\RevisandoLogicaDeProgramaçao.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\bin\Debug\net6.0\RevisandoLogicaDeProgramaçao.dll
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\bin\Debug\net6.0\RevisandoLogicaDeProgramaçao.pdb
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.dll
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\refint\RevisandoLogicaDeProgramaçao.dll
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.pdb
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\RevisandoLogicaDeProgramaçao.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\RevisandoLogicaDeProgramaçao\obj\Debug\net6.0\ref\RevisandoLogicaDeProgramaçao.dll
