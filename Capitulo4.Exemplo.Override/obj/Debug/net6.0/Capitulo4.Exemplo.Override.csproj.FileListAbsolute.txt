@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\bin\Debug\net6.0\Capitulo4.Exemplo.Override.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\bin\Debug\net6.0\Capitulo4.Exemplo.Override.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\bin\Debug\net6.0\Capitulo4.Exemplo.Override.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\bin\Debug\net6.0\Capitulo4.Exemplo.Override.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\bin\Debug\net6.0\Capitulo4.Exemplo.Override.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\refint\Capitulo4.Exemplo.Override.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\Capitulo4.Exemplo.Override.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Override\obj\Debug\net6.0\ref\Capitulo4.Exemplo.Override.dll

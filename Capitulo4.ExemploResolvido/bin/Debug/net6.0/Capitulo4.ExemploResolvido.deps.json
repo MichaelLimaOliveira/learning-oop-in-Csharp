@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Capitulo4.ExemploResolvido/1.0.0": {
+        "runtime": {
+          "Capitulo4.ExemploResolvido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capitulo4.ExemploResolvido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\bin\Debug\net6.0\Capitulo4.ExemploResolvido.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\bin\Debug\net6.0\Capitulo4.ExemploResolvido.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\bin\Debug\net6.0\Capitulo4.ExemploResolvido.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\bin\Debug\net6.0\Capitulo4.ExemploResolvido.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\bin\Debug\net6.0\Capitulo4.ExemploResolvido.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\refint\Capitulo4.ExemploResolvido.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\Capitulo4.ExemploResolvido.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExemploResolvido\obj\Debug\net6.0\ref\Capitulo4.ExemploResolvido.dll
