@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\bin\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\bin\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\bin\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\bin\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\bin\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\refint\Capitulo4.Teste.MenbrosEstaticos.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\Capitulo4.Teste.MenbrosEstaticos.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Teste.MenbrosEstaticos\obj\Debug\net6.0\ref\Capitulo4.Teste.MenbrosEstaticos.dll
