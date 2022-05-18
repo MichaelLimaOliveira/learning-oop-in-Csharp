@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\bin\Debug\net6.0\Capitulo5.ExemploDeConstrutor.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\bin\Debug\net6.0\Capitulo5.ExemploDeConstrutor.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\bin\Debug\net6.0\Capitulo5.ExemploDeConstrutor.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\bin\Debug\net6.0\Capitulo5.ExemploDeConstrutor.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\bin\Debug\net6.0\Capitulo5.ExemploDeConstrutor.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\refint\Capitulo5.ExemploDeConstrutor.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\Capitulo5.ExemploDeConstrutor.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.ExemploDeConstrutor\obj\Debug\net6.0\ref\Capitulo5.ExemploDeConstrutor.dll

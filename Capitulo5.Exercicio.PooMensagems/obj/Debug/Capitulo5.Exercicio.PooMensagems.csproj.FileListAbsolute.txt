@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\bin\Debug\Capitulo5.Exercicio.PooMensagems.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\bin\Debug\Capitulo5.Exercicio.PooMensagems.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\bin\Debug\Capitulo5.Exercicio.PooMensagems.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\obj\Debug\Capitulo5.Exercicio.PooMensagems.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\obj\Debug\Capitulo5.Exercicio.PooMensagems.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\obj\Debug\Capitulo5.Exercicio.PooMensagems.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\obj\Debug\Capitulo5.Exercicio.PooMensagems.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.PooMensagems\obj\Debug\Capitulo5.Exercicio.PooMensagems.pdb

@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.Write("Entre com o valor de raio: ");
+            double radius = double.Parse(Console.ReadLine());
+            
+
+            double circ = Calculator.Circumference(radius);
+
+            Console.WriteLine("Circunferencia: " + circ.ToString("F2"));
+
+            double volume = Calculator.Volume(radius);
+
+            Console.WriteLine($"Volume: {volume:F2}");
+            Console.WriteLine($"Valor de PI: {Calculator.Pi:F2}");
+
         }
     }
 }

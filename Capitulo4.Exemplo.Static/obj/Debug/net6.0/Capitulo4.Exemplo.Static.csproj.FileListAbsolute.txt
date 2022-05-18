@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\bin\Debug\net6.0\Capitulo4.Exemplo.Static.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\bin\Debug\net6.0\Capitulo4.Exemplo.Static.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\bin\Debug\net6.0\Capitulo4.Exemplo.Static.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\bin\Debug\net6.0\Capitulo4.Exemplo.Static.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\bin\Debug\net6.0\Capitulo4.Exemplo.Static.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\refint\Capitulo4.Exemplo.Static.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\Capitulo4.Exemplo.Static.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.Exemplo.Static\obj\Debug\net6.0\ref\Capitulo4.Exemplo.Static.dll

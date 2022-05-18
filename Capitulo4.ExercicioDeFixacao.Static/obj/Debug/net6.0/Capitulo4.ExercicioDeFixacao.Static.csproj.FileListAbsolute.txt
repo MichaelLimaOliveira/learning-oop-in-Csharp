@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\bin\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\bin\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\bin\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\bin\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\bin\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\refint\Capitulo4.ExercicioDeFixacao.Static.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\Capitulo4.ExercicioDeFixacao.Static.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo4.ExercicioDeFixacao.Static\obj\Debug\net6.0\ref\Capitulo4.ExercicioDeFixacao.Static.dll
