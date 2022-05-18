@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\bin\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\bin\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\bin\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\obj\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\obj\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\obj\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\obj\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso\obj\Debug\Capitulo5.Exercicio.EncapsulamentoMetodosDeAcesso.pdb

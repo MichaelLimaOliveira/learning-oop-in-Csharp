@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\bin\Debug\Capitulo5.Exercicio.CalculoIdade.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\bin\Debug\Capitulo5.Exercicio.CalculoIdade.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\bin\Debug\Capitulo5.Exercicio.CalculoIdade.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\obj\Debug\Capitulo5.Exercicio.CalculoIdade.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\obj\Debug\Capitulo5.Exercicio.CalculoIdade.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\obj\Debug\Capitulo5.Exercicio.CalculoIdade.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\obj\Debug\Capitulo5.Exercicio.CalculoIdade.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.CalculoIdade\obj\Debug\Capitulo5.Exercicio.CalculoIdade.pdb
