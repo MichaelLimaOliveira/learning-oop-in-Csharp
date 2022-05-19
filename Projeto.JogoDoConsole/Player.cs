@@ -49,7 +49,7 @@ namespace Projeto.JogoDoConsole
 
         public void Movement(char value)
         {
-            Jump = false;
+
             if (value == 'L')
             {
                 PlayerPosition--;

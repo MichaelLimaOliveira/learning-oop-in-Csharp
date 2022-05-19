@@ -8,6 +8,7 @@ namespace Projeto.JogoDoConsole
 {
     internal class Scenario
     {
+        private int _pointsProbabilities;
         private Random Random { get; set; }
         private List<bool> Points { get; set; }
         private string _scenarioType;
@@ -32,10 +33,11 @@ namespace Projeto.JogoDoConsole
             ScenarioSize = scenarioSize;
             Random = new Random(DateTime.Now.Millisecond);
             Points = new List<bool>();
-            GenerateScenarioPoints(probability);
+            _pointsProbabilities = probability;
+            GenerateScenarioPoints(_pointsProbabilities);
         }
 
-        public void ScenarioPrinter(Player p1)
+        public async Task ScenarioPrinterAsync(Player p1)
         {
             Console.Clear();
             Console.WriteLine($"Pontos: {p1.Points}");
@@ -66,10 +68,23 @@ namespace Projeto.JogoDoConsole
                 if (p1.PlayerPosition == i && p1.Jump == false) Console.Write(p1.Skin);
                 else Console.Write(ScenarioType);
             }
+
+            if(!Points.Any(p => p == true))
+            {
+                GenerateScenarioPoints(_pointsProbabilities);
+            }
+
+            if (p1.Jump == true)
+            {
+                p1.Jump = false;
+                await Task.Delay(200);
+                await ScenarioPrinterAsync(p1);
+            }
         }
 
         public void GenerateScenarioPoints(int probability)
         {
+            Points.Clear();
             for (int i = 0; i < this.ScenarioSize; i++)
             {
                 bool havePoint = HavePoint(probability);
