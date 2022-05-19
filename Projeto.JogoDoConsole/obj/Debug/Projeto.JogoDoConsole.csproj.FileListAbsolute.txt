@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\bin\Debug\Projeto.JogoDoConsole.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\bin\Debug\Projeto.JogoDoConsole.exe
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\bin\Debug\Projeto.JogoDoConsole.pdb
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\obj\Debug\Projeto.JogoDoConsole.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\obj\Debug\Projeto.JogoDoConsole.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\obj\Debug\Projeto.JogoDoConsole.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\obj\Debug\Projeto.JogoDoConsole.exe
+D:\Repositorios\learning-oop-in-Csharp\Projeto.JogoDoConsole\obj\Debug\Projeto.JogoDoConsole.pdb

@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\bin\Debug\Capitulo5.Exercicio.QuantidadeDePets.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\bin\Debug\Capitulo5.Exercicio.QuantidadeDePets.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\bin\Debug\Capitulo5.Exercicio.QuantidadeDePets.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\obj\Debug\Capitulo5.Exercicio.QuantidadeDePets.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\obj\Debug\Capitulo5.Exercicio.QuantidadeDePets.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\obj\Debug\Capitulo5.Exercicio.QuantidadeDePets.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\obj\Debug\Capitulo5.Exercicio.QuantidadeDePets.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.QuantidadeDePets\obj\Debug\Capitulo5.Exercicio.QuantidadeDePets.pdb
