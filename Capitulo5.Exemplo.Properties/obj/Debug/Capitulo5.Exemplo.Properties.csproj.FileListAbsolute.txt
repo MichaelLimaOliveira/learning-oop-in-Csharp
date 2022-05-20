@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\bin\Debug\Capitulo5.Exemplo.Properties.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\bin\Debug\Capitulo5.Exemplo.Properties.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\bin\Debug\Capitulo5.Exemplo.Properties.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\obj\Debug\Capitulo5.Exemplo.Properties.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\obj\Debug\Capitulo5.Exemplo.Properties.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\obj\Debug\Capitulo5.Exemplo.Properties.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\obj\Debug\Capitulo5.Exemplo.Properties.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exemplo.Properties\obj\Debug\Capitulo5.Exemplo.Properties.pdb
