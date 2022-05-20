@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\bin\Debug\Capitulo5.Exercicio.ContaBancaria.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\bin\Debug\Capitulo5.Exercicio.ContaBancaria.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\bin\Debug\Capitulo5.Exercicio.ContaBancaria.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\obj\Debug\Capitulo5.Exercicio.ContaBancaria.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\obj\Debug\Capitulo5.Exercicio.ContaBancaria.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\obj\Debug\Capitulo5.Exercicio.ContaBancaria.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\obj\Debug\Capitulo5.Exercicio.ContaBancaria.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo5.Exercicio.ContaBancaria\obj\Debug\Capitulo5.Exercicio.ContaBancaria.pdb

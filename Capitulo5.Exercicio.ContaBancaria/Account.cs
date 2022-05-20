@@ -20,7 +20,7 @@
             Balance = balance;
         }
 
-        public void Deposit(double quantity)
+        public void DepositMoney(double quantity)
         {
             Balance += quantity;
         }
@@ -34,5 +34,11 @@
         {
             if (name != this.Name && name != null) this.Name = name;
         }
+
+        public override string ToString()
+        {
+            return $"Conta {ID}, Titular: {Name}, Saldo: $ {Balance:F2}";
+        }
+
     }
 }
