@@ -20,12 +20,11 @@ namespace Capitulo5.Exercicio.ContaBancaria
             Console.Write("Haverá depósito inicial (s/n)? ");
             char validation = char.Parse(Console.ReadLine());
 
-            double balance;
             if(validation == 's')
             {
                 Console.Write("Entre com o valor do deposito inicial: ");
-                balance = double.Parse(Console.ReadLine());
-                a1 = new Account(id,  name, balance);
+                double firstDeposit = double.Parse(Console.ReadLine());
+                a1 = new Account(id,  name, firstDeposit);
             }
             else
             {

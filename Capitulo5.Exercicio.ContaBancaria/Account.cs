@@ -3,7 +3,7 @@
     internal class Account
     {
         private double _tax = 5.00;
-        public string ID { get; }
+        public string ID { get; private set; }
         public string Name { get; private set; }
 
         public double Balance { get; private set; }
@@ -13,11 +13,9 @@
             ID = iD;
             Name = name;
         }
-        public Account(string iD, string name, double balance)
+        public Account(string iD, string name, double initialDeposit) : this(iD, name)
         {
-            ID = iD;
-            Name = name;
-            Balance = balance;
+            DepositMoney(initialDeposit);
         }
 
         public void DepositMoney(double quantity)
