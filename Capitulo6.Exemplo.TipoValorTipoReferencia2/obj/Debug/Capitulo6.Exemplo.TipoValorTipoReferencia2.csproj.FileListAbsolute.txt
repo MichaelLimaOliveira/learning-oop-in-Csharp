@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\bin\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\bin\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\bin\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\obj\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\obj\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\obj\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\obj\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.TipoValorTipoReferencia2\obj\Debug\Capitulo6.Exemplo.TipoValorTipoReferencia2.pdb
