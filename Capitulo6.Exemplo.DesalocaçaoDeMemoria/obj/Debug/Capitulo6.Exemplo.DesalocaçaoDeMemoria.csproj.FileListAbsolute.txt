@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\bin\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\bin\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\bin\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\obj\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\obj\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\obj\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\obj\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.DesalocaçaoDeMemoria\obj\Debug\Capitulo6.Exemplo.DesalocaçaoDeMemoria.pdb
