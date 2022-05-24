@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Capitulo6.Exercicio.Vetor
+namespace Capitulo6.HotelProjectConsole.Models
 {
-    internal class Bedroom
+    public class Hotel
     {
+        public int Id { get; set; }
         public string Name { get; set; }
-        public string Email { get; set; }
-
+        public List<Bedroom> Bedrooms { get; set; }
     }
 }

@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\bin\Debug\net6.0\Capitulo6.HotelProjectConsole.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\bin\Debug\net6.0\Capitulo6.HotelProjectConsole.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\bin\Debug\net6.0\Capitulo6.HotelProjectConsole.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\bin\Debug\net6.0\Capitulo6.HotelProjectConsole.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\bin\Debug\net6.0\Capitulo6.HotelProjectConsole.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\refint\Capitulo6.HotelProjectConsole.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\Capitulo6.HotelProjectConsole.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.HotelProjectConsole\obj\Debug\net6.0\ref\Capitulo6.HotelProjectConsole.dll
