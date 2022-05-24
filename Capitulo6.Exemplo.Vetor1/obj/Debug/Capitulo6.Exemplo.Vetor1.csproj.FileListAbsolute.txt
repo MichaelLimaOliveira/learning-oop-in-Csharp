@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\bin\Debug\Capitulo6.Exemplo.Vetor1.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\bin\Debug\Capitulo6.Exemplo.Vetor1.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\bin\Debug\Capitulo6.Exemplo.Vetor1.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\obj\Debug\Capitulo6.Exemplo.Vetor1.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\obj\Debug\Capitulo6.Exemplo.Vetor1.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\obj\Debug\Capitulo6.Exemplo.Vetor1.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\obj\Debug\Capitulo6.Exemplo.Vetor1.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exemplo.Vetor1\obj\Debug\Capitulo6.Exemplo.Vetor1.pdb
