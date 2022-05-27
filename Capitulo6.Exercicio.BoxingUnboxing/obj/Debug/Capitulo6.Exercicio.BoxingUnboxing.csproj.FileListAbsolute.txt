@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\bin\Debug\Capitulo6.Exercicio.BoxingUnboxing.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\bin\Debug\Capitulo6.Exercicio.BoxingUnboxing.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\bin\Debug\Capitulo6.Exercicio.BoxingUnboxing.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\obj\Debug\Capitulo6.Exercicio.BoxingUnboxing.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\obj\Debug\Capitulo6.Exercicio.BoxingUnboxing.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\obj\Debug\Capitulo6.Exercicio.BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\obj\Debug\Capitulo6.Exercicio.BoxingUnboxing.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.BoxingUnboxing\obj\Debug\Capitulo6.Exercicio.BoxingUnboxing.pdb

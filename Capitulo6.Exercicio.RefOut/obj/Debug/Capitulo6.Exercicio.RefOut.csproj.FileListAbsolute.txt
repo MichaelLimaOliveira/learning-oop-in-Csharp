@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\bin\Debug\Capitulo6.Exercicio.RefOut.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\bin\Debug\Capitulo6.Exercicio.RefOut.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\bin\Debug\Capitulo6.Exercicio.RefOut.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\obj\Debug\Capitulo6.Exercicio.RefOut.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\obj\Debug\Capitulo6.Exercicio.RefOut.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\obj\Debug\Capitulo6.Exercicio.RefOut.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\obj\Debug\Capitulo6.Exercicio.RefOut.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.Exercicio.RefOut\obj\Debug\Capitulo6.Exercicio.RefOut.pdb

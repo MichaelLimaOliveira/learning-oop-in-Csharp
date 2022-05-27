@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Capitulo6.Exercicio.Vetor
 {
@@ -36,8 +32,8 @@ namespace Capitulo6.Exercicio.Vetor
 
             Console.WriteLine();
             Console.WriteLine("Quartos ocupados: ");
-            for(int i = 0; i < bedrooms.Length; i++)
-                if (bedrooms[i]!= null) Console.WriteLine($"{i}: {bedrooms[i].Name}, {bedrooms[i].Email}");
+            for (int i = 0; i < bedrooms.Length; i++)
+                if (bedrooms[i] != null) Console.WriteLine($"{i}: {bedrooms[i].Name}, {bedrooms[i].Email}");
         }
     }
 }
