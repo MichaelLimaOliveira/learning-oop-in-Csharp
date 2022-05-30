@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\bin\Debug\Capitulo6.ExercicioProposto.Matiz.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\bin\Debug\Capitulo6.ExercicioProposto.Matiz.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\bin\Debug\Capitulo6.ExercicioProposto.Matiz.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\obj\Debug\Capitulo6.ExercicioProposto.Matiz.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\obj\Debug\Capitulo6.ExercicioProposto.Matiz.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\obj\Debug\Capitulo6.ExercicioProposto.Matiz.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\obj\Debug\Capitulo6.ExercicioProposto.Matiz.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.Matiz\obj\Debug\Capitulo6.ExercicioProposto.Matiz.pdb
