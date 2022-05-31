@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\bin\Debug\Capitulo6.ExercicioResolvido.Matriz.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\bin\Debug\Capitulo6.ExercicioResolvido.Matriz.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\bin\Debug\Capitulo6.ExercicioResolvido.Matriz.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\obj\Debug\Capitulo6.ExercicioResolvido.Matriz.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\obj\Debug\Capitulo6.ExercicioResolvido.Matriz.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\obj\Debug\Capitulo6.ExercicioResolvido.Matriz.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\obj\Debug\Capitulo6.ExercicioResolvido.Matriz.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioResolvido.Matriz\obj\Debug\Capitulo6.ExercicioResolvido.Matriz.pdb

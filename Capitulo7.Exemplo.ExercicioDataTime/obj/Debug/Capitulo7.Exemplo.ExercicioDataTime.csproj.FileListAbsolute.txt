@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\bin\Debug\Capitulo7.Exemplo.ExercicioDataTime.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\bin\Debug\Capitulo7.Exemplo.ExercicioDataTime.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\bin\Debug\Capitulo7.Exemplo.ExercicioDataTime.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\obj\Debug\Capitulo7.Exemplo.ExercicioDataTime.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\obj\Debug\Capitulo7.Exemplo.ExercicioDataTime.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\obj\Debug\Capitulo7.Exemplo.ExercicioDataTime.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\obj\Debug\Capitulo7.Exemplo.ExercicioDataTime.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.ExercicioDataTime\obj\Debug\Capitulo7.Exemplo.ExercicioDataTime.pdb

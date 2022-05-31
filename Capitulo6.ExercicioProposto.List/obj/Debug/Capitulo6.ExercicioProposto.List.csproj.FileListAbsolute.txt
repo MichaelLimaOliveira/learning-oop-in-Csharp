@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\bin\Debug\Capitulo6.ExercicioProposto.List.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\bin\Debug\Capitulo6.ExercicioProposto.List.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\bin\Debug\Capitulo6.ExercicioProposto.List.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\obj\Debug\Capitulo6.ExercicioProposto.List.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\obj\Debug\Capitulo6.ExercicioProposto.List.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\obj\Debug\Capitulo6.ExercicioProposto.List.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\obj\Debug\Capitulo6.ExercicioProposto.List.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo6.ExercicioProposto.List\obj\Debug\Capitulo6.ExercicioProposto.List.pdb

@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\bin\Debug\Capitulo7.Exercicio.TimespanMeth.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\bin\Debug\Capitulo7.Exercicio.TimespanMeth.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\bin\Debug\Capitulo7.Exercicio.TimespanMeth.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\obj\Debug\Capitulo7.Exercicio.TimespanMeth.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\obj\Debug\Capitulo7.Exercicio.TimespanMeth.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\obj\Debug\Capitulo7.Exercicio.TimespanMeth.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\obj\Debug\Capitulo7.Exercicio.TimespanMeth.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exercicio.TimespanMeth\obj\Debug\Capitulo7.Exercicio.TimespanMeth.pdb

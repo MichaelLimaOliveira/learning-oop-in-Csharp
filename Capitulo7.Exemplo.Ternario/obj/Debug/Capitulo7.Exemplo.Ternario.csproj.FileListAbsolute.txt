@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\bin\Debug\Capitulo7.Exemplo.Ternario.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\bin\Debug\Capitulo7.Exemplo.Ternario.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\bin\Debug\Capitulo7.Exemplo.Ternario.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\obj\Debug\Capitulo7.Exemplo.Ternario.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\obj\Debug\Capitulo7.Exemplo.Ternario.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\obj\Debug\Capitulo7.Exemplo.Ternario.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\obj\Debug\Capitulo7.Exemplo.Ternario.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Ternario\obj\Debug\Capitulo7.Exemplo.Ternario.pdb

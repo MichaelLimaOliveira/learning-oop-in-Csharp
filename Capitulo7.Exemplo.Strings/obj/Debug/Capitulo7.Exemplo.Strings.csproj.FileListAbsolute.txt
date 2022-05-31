@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\bin\Debug\Capitulo7.Exemplo.Strings.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\bin\Debug\Capitulo7.Exemplo.Strings.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\bin\Debug\Capitulo7.Exemplo.Strings.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\obj\Debug\Capitulo7.Exemplo.Strings.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\obj\Debug\Capitulo7.Exemplo.Strings.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\obj\Debug\Capitulo7.Exemplo.Strings.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\obj\Debug\Capitulo7.Exemplo.Strings.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Strings\obj\Debug\Capitulo7.Exemplo.Strings.pdb

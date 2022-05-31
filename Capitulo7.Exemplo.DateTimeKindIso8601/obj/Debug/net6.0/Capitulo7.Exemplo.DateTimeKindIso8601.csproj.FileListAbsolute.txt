@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\bin\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\bin\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\bin\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\bin\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\bin\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\refint\Capitulo7.Exemplo.DateTimeKindIso8601.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\Capitulo7.Exemplo.DateTimeKindIso8601.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.DateTimeKindIso8601\obj\Debug\net6.0\ref\Capitulo7.Exemplo.DateTimeKindIso8601.dll

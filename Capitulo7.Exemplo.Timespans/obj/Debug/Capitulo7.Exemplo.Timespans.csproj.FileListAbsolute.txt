@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\bin\Debug\Capitulo7.Exemplo.Timespans.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\bin\Debug\Capitulo7.Exemplo.Timespans.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\bin\Debug\Capitulo7.Exemplo.Timespans.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\obj\Debug\Capitulo7.Exemplo.Timespans.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\obj\Debug\Capitulo7.Exemplo.Timespans.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\obj\Debug\Capitulo7.Exemplo.Timespans.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\obj\Debug\Capitulo7.Exemplo.Timespans.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Timespans\obj\Debug\Capitulo7.Exemplo.Timespans.pdb

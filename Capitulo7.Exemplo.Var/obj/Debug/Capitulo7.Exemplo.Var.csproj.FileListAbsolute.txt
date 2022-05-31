@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\bin\Debug\Capitulo7.Exemplo.Var.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\bin\Debug\Capitulo7.Exemplo.Var.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\bin\Debug\Capitulo7.Exemplo.Var.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\obj\Debug\Capitulo7.Exemplo.Var.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\obj\Debug\Capitulo7.Exemplo.Var.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\obj\Debug\Capitulo7.Exemplo.Var.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\obj\Debug\Capitulo7.Exemplo.Var.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Var\obj\Debug\Capitulo7.Exemplo.Var.pdb

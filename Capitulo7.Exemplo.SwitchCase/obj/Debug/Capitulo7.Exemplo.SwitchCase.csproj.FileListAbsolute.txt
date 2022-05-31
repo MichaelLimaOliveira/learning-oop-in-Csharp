@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\bin\Debug\Capitulo7.Exemplo.SwitchCase.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\bin\Debug\Capitulo7.Exemplo.SwitchCase.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\bin\Debug\Capitulo7.Exemplo.SwitchCase.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\obj\Debug\Capitulo7.Exemplo.SwitchCase.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\obj\Debug\Capitulo7.Exemplo.SwitchCase.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\obj\Debug\Capitulo7.Exemplo.SwitchCase.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\obj\Debug\Capitulo7.Exemplo.SwitchCase.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.SwitchCase\obj\Debug\Capitulo7.Exemplo.SwitchCase.pdb
