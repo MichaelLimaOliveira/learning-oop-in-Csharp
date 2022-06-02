@@ -1,0 +1,8 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\bin\Debug\Capitulo7.Exemplo.Busca.exe.config
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\bin\Debug\Capitulo7.Exemplo.Busca.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\bin\Debug\Capitulo7.Exemplo.Busca.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\obj\Debug\Capitulo7.Exemplo.Busca.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\obj\Debug\Capitulo7.Exemplo.Busca.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\obj\Debug\Capitulo7.Exemplo.Busca.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\obj\Debug\Capitulo7.Exemplo.Busca.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo7.Exemplo.Busca\obj\Debug\Capitulo7.Exemplo.Busca.pdb

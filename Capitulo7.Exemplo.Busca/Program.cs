@@ -20,9 +20,6 @@ namespace Capitulo7.Exemplo.Busca
             {
 
             }
-
-
-            
         }
     }
 }
