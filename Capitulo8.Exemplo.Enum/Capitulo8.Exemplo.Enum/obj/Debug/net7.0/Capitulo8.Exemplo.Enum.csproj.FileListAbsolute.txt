@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\bin\Debug\net7.0\Capitulo8.Exemplo.Enum.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\bin\Debug\net7.0\Capitulo8.Exemplo.Enum.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\bin\Debug\net7.0\Capitulo8.Exemplo.Enum.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\bin\Debug\net7.0\Capitulo8.Exemplo.Enum.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\bin\Debug\net7.0\Capitulo8.Exemplo.Enum.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\refint\Capitulo8.Exemplo.Enum.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\Capitulo8.Exemplo.Enum.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exemplo.Enum\Capitulo8.Exemplo.Enum\obj\Debug\net7.0\ref\Capitulo8.Exemplo.Enum.dll

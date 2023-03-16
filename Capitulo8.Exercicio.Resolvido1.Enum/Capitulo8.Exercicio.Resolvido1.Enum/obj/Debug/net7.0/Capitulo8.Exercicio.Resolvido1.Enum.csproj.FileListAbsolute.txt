@@ -1,0 +1,15 @@
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\bin\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.exe
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\bin\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.deps.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\bin\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.runtimeconfig.json
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\bin\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\bin\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.csproj.AssemblyReference.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.AssemblyInfoInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.AssemblyInfo.cs
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.csproj.CoreCompileInputs.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\refint\Capitulo8.Exercicio.Resolvido1.Enum.dll
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.pdb
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\Capitulo8.Exercicio.Resolvido1.Enum.genruntimeconfig.cache
+D:\Repositorios\learning-oop-in-Csharp\Capitulo8.Exercicio.Resolvido1.Enum\Capitulo8.Exercicio.Resolvido1.Enum\obj\Debug\net7.0\ref\Capitulo8.Exercicio.Resolvido1.Enum.dll
